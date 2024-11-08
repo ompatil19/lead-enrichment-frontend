@@ -1,0 +1,2910 @@
+{
+    "canonical_hash": "d6ffd0de155cf230221fb132e4ec5386",
+    "canonical_shorthand_name": "cloudsek",
+    "canonical_shorthand_name_hash": "8a9c9135b4e5dc0dda6e98f676ad2210",
+    "canonical_url": "https://sg.linkedin.com/company/cloudsek",
+    "company_affiliated_collection": [],
+    "company_also_viewed_collection": [
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 6696581,
+            "last_updated": "2016-12-12 03:20:40",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/citrix"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 6696582,
+            "last_updated": "2016-12-12 03:20:40",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/bidgely"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 6696583,
+            "last_updated": "2016-12-12 03:20:40",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/eastern-condiments-p-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 6696584,
+            "last_updated": "2016-12-12 03:20:40",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/dataweave-software-pvt-ltd-"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 6696585,
+            "last_updated": "2016-12-12 03:20:40",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/teknotrait-solutions-pvt-ltd-"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 6696586,
+            "last_updated": "2016-12-12 03:20:40",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/expertite"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-12-12 03:20:40",
+            "deleted": 1,
+            "id": 46074175,
+            "last_updated": "2017-10-25 13:10:21",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/sentient-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-12-12 03:20:40",
+            "deleted": 1,
+            "id": 46074176,
+            "last_updated": "2018-07-27 14:35:01",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/haltdos"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-12-12 03:20:40",
+            "deleted": 1,
+            "id": 46074177,
+            "last_updated": "2017-02-27 23:58:20",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/zumi-solutions-p-ltd-"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-12-12 03:20:40",
+            "deleted": 1,
+            "id": 46074178,
+            "last_updated": "2017-08-05 16:15:44",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/seclabs-&-systems-pvt.-ltd."
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-12-12 03:20:40",
+            "deleted": 1,
+            "id": 46074179,
+            "last_updated": "2017-01-25 08:56:42",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/digilog-technologies-pvt-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-12-12 03:20:40",
+            "deleted": 1,
+            "id": 46074180,
+            "last_updated": "2017-01-25 08:56:42",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/hk-it-solutions"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-01-25 08:56:41",
+            "deleted": 1,
+            "id": 75320739,
+            "last_updated": "2017-08-05 16:15:44",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/payatu-technologies-pvt-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-01-25 08:56:41",
+            "deleted": 1,
+            "id": 75320740,
+            "last_updated": "2017-08-05 16:15:44",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/triad-square-infosec-pvt-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-02-27 23:58:20",
+            "deleted": 1,
+            "id": 86899617,
+            "last_updated": "2019-08-07 02:49:13",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/cloudsec"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-08-05 16:15:43",
+            "deleted": 1,
+            "id": 97460834,
+            "last_updated": "2019-08-07 02:49:13",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/cloudsec-summits"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-08-05 16:15:43",
+            "deleted": 1,
+            "id": 97460835,
+            "last_updated": "2017-10-25 13:10:21",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/cloudsense-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-08-05 16:15:43",
+            "deleted": 1,
+            "id": 97460836,
+            "last_updated": "2018-07-27 14:35:01",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/isight-partners"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-10-25 13:10:20",
+            "deleted": 1,
+            "id": 113923761,
+            "last_updated": "2018-03-13 03:28:57",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/snshine-technologies"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2017-10-25 13:10:20",
+            "deleted": 1,
+            "id": 113923762,
+            "last_updated": "2018-07-27 14:35:01",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/citrix"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-03-13 03:28:56",
+            "deleted": 1,
+            "id": 136572787,
+            "last_updated": "2019-03-16 06:30:02",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/cloudsec-networks"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-07-27 14:35:00",
+            "deleted": 1,
+            "id": 147695807,
+            "last_updated": "2019-08-07 02:49:13",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/attify"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-07-27 14:35:00",
+            "deleted": 1,
+            "id": 147695808,
+            "last_updated": "2018-09-04 02:28:47",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/cloudsense-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-07-27 14:35:00",
+            "deleted": 1,
+            "id": 147695809,
+            "last_updated": "2018-08-06 03:24:28",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/deloitte"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-08-06 03:24:28",
+            "deleted": 1,
+            "id": 151517093,
+            "last_updated": "2018-12-01 13:42:28",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/xysec-labs"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-09-04 02:28:47",
+            "deleted": 1,
+            "id": 158118410,
+            "last_updated": "2019-01-04 06:36:26",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/thetechpanda"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2018-12-01 13:42:28",
+            "deleted": 1,
+            "id": 170717297,
+            "last_updated": "2019-01-07 04:50:34",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/isight-partners"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-01-04 06:36:26",
+            "deleted": 1,
+            "id": 182447767,
+            "last_updated": "2019-05-28 00:51:05",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/sentient-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-01-07 04:50:34",
+            "deleted": 1,
+            "id": 184205832,
+            "last_updated": "2019-02-21 12:28:38",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/payatu-technologies-pvt-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-02-21 12:28:38",
+            "deleted": 1,
+            "id": 188357042,
+            "last_updated": "2019-08-07 02:49:13",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/isight-partners"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-03-16 06:30:02",
+            "deleted": 1,
+            "id": 196070071,
+            "last_updated": "2019-05-28 00:51:05",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/payatu-technologies-pvt-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-05-28 00:51:05",
+            "deleted": 1,
+            "id": 221726922,
+            "last_updated": "2019-08-07 02:49:13",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/authbase"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-05-28 00:51:05",
+            "deleted": 1,
+            "id": 221726923,
+            "last_updated": "2019-08-07 02:49:13",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://www.linkedin.com/company/citrix"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-08-07 02:49:13",
+            "deleted": 1,
+            "id": 262786332,
+            "last_updated": "2019-10-16 16:49:52",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://sg.linkedin.com/company/cloudsec-summits"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-08-07 02:49:13",
+            "deleted": 1,
+            "id": 262786333,
+            "last_updated": "2019-10-16 16:49:52",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://sg.linkedin.com/company/attify"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-08-07 02:49:13",
+            "deleted": 1,
+            "id": 262786334,
+            "last_updated": "2019-10-16 16:49:52",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://sg.linkedin.com/company/citrix"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-08-07 02:49:13",
+            "deleted": 1,
+            "id": 262786335,
+            "last_updated": "2019-10-16 16:49:52",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://sg.linkedin.com/company/the-autoaigroup"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-08-07 02:49:13",
+            "deleted": 1,
+            "id": 262786336,
+            "last_updated": "2019-10-16 16:49:52",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://sg.linkedin.com/company/tenableinc"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-08-07 02:49:13",
+            "deleted": 1,
+            "id": 262786337,
+            "last_updated": "2019-10-16 16:49:52",
+            "viewed_company_id": null,
+            "viewed_company_url": "https://sg.linkedin.com/company/iqvia-asia-pacific"
+        }
+    ],
+    "company_crunchbase_info_collection": [
+        {
+            "cb_url": "https://www.crunchbase.com/organization/cloudsek",
+            "company_id": 1666893,
+            "created": "2020-09-22 21:57:30",
+            "deleted": 1,
+            "id": 85123,
+            "last_updated": "2021-09-30 15:50:03"
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/organization/cloudsek",
+            "company_id": 1666893,
+            "created": "2021-10-18 23:01:01",
+            "deleted": 1,
+            "id": 141610,
+            "last_updated": "2022-07-14 20:55:09"
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/organization/cloudsek",
+            "company_id": 1666893,
+            "created": "2023-02-11 11:10:42",
+            "deleted": 0,
+            "id": 315218,
+            "last_updated": "2024-11-02 00:29:27"
+        }
+    ],
+    "company_featured_employees_collection": [
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 2429948,
+            "last_updated": "2022-07-14 20:55:09",
+            "url": "https://www.linkedin.com/in/sourabhissar"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 2429953,
+            "last_updated": "2020-03-13 01:36:57",
+            "url": "https://www.linkedin.com/in/rahul-khattar-412b972"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 2429955,
+            "last_updated": "2022-07-14 20:55:09",
+            "url": "https://www.linkedin.com/in/mohanlalmenon"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 2429957,
+            "last_updated": "2020-02-24 01:07:05",
+            "url": "https://www.linkedin.com/in/chinnu-senthilkumar-45b2ab5"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 1,
+            "id": 38377926,
+            "last_updated": "2022-07-14 20:55:09",
+            "url": "https://www.linkedin.com/in/fb1h2s"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-03-13 01:36:57",
+            "deleted": 1,
+            "id": 39474889,
+            "last_updated": "2022-06-17 00:43:40",
+            "url": "https://www.linkedin.com/in/sellamani-chinnasamy"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-06-17 00:43:40",
+            "deleted": 1,
+            "id": 91645409,
+            "last_updated": "2022-07-14 20:55:09",
+            "url": "https://www.linkedin.com/in/gurdip-singh-23a2b82"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-07-14 20:55:09",
+            "deleted": 0,
+            "id": 94937275,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/in/gurdip-singh-23a2b82"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-07-14 20:55:09",
+            "deleted": 0,
+            "id": 94937276,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/in/mohanlalmenon"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-07-14 20:55:09",
+            "deleted": 1,
+            "id": 94937277,
+            "last_updated": "2022-08-13 20:27:07",
+            "url": "https://in.linkedin.com/in/fb1h2s"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-07-14 20:55:09",
+            "deleted": 1,
+            "id": 94937278,
+            "last_updated": "2022-08-13 20:27:07",
+            "url": "https://in.linkedin.com/in/shashank-shekhar-storyteller"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-08-13 20:27:07",
+            "deleted": 1,
+            "id": 124357605,
+            "last_updated": "2023-08-04 02:19:43",
+            "url": "https://www.linkedin.com/in/mike-howard-3a07028"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-08-13 20:27:07",
+            "deleted": 1,
+            "id": 124357606,
+            "last_updated": "2023-01-18 13:49:09",
+            "url": "https://in.linkedin.com/in/pramabajaj"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-01-18 13:49:09",
+            "deleted": 1,
+            "id": 158471682,
+            "last_updated": "2023-07-06 07:46:46",
+            "url": "https://in.linkedin.com/in/fb1h2s"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-07-06 07:46:46",
+            "deleted": 1,
+            "id": 180258022,
+            "last_updated": "2024-05-14 03:30:08",
+            "url": "https://in.linkedin.com/in/shashank-shekhar-storyteller"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-08-04 02:19:43",
+            "deleted": 1,
+            "id": 185837040,
+            "last_updated": "2023-12-06 11:33:36",
+            "url": "https://in.linkedin.com/in/sellamani-chinnasamy"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-12-06 11:33:36",
+            "deleted": 1,
+            "id": 197708219,
+            "last_updated": "2024-03-17 12:26:15",
+            "url": "https://in.linkedin.com/in/joji-thomas-alex-2986a15"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-03-17 12:26:15",
+            "deleted": 1,
+            "id": 203292818,
+            "last_updated": "2024-04-09 16:44:41",
+            "url": "https://in.linkedin.com/in/sellamani-chinnasamy"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-04-09 16:44:41",
+            "deleted": 0,
+            "id": 204413785,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/in/fb1h2s"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-05-14 03:30:08",
+            "deleted": 0,
+            "id": 205997918,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/in/alex-george-6066777"
+        }
+    ],
+    "company_featured_investors_collection": [
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2020-09-22 21:57:30",
+            "deleted": 1,
+            "id": 39433,
+            "investor_id": 4341,
+            "last_updated": "2020-10-15 17:54:14",
+            "round_id": 131663
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2020-10-15 17:54:14",
+            "deleted": 1,
+            "id": 69372,
+            "investor_id": 4341,
+            "last_updated": "2020-11-12 01:51:21",
+            "round_id": 131663
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 107360,
+            "investor_id": 4341,
+            "last_updated": "2020-12-17 06:26:10",
+            "round_id": 201974
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2020-12-17 06:26:10",
+            "deleted": 1,
+            "id": 162360,
+            "investor_id": 4341,
+            "last_updated": "2021-01-19 15:59:21",
+            "round_id": 287050
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-01-19 15:59:21",
+            "deleted": 1,
+            "id": 217864,
+            "investor_id": 4341,
+            "last_updated": "2021-02-13 15:14:58",
+            "round_id": 409140
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-02-13 15:14:58",
+            "deleted": 1,
+            "id": 247122,
+            "investor_id": 4341,
+            "last_updated": "2021-03-18 10:46:18",
+            "round_id": 529977
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-03-18 10:46:18",
+            "deleted": 1,
+            "id": 295896,
+            "investor_id": 4341,
+            "last_updated": "2021-03-20 05:23:27",
+            "round_id": 596100
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-03-20 05:23:27",
+            "deleted": 1,
+            "id": 300863,
+            "investor_id": 4341,
+            "last_updated": "2021-04-15 02:15:54",
+            "round_id": 703173
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-04-15 02:15:54",
+            "deleted": 1,
+            "id": 343717,
+            "investor_id": 4341,
+            "last_updated": "2021-05-18 03:17:54",
+            "round_id": 714009
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-05-18 03:17:54",
+            "deleted": 1,
+            "id": 398399,
+            "investor_id": 4341,
+            "last_updated": "2021-06-25 15:58:56",
+            "round_id": 810880
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-06-25 15:58:56",
+            "deleted": 1,
+            "id": 454740,
+            "investor_id": 4341,
+            "last_updated": "2021-07-22 13:19:14",
+            "round_id": 933819
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-07-22 13:19:14",
+            "deleted": 1,
+            "id": 510319,
+            "investor_id": 4341,
+            "last_updated": "2021-08-12 22:31:17",
+            "round_id": 1059420
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-08-12 22:31:17",
+            "deleted": 1,
+            "id": 548707,
+            "investor_id": 4341,
+            "last_updated": "2021-09-30 15:50:03",
+            "round_id": 1178537
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-10-18 23:01:01",
+            "deleted": 1,
+            "id": 721542,
+            "investor_id": 4341,
+            "last_updated": "2021-11-20 19:47:27",
+            "round_id": 1629441
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-11-20 19:47:27",
+            "deleted": 1,
+            "id": 790763,
+            "investor_id": 4341,
+            "last_updated": "2021-11-30 12:06:57",
+            "round_id": 1629441
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-11-30 12:06:57",
+            "deleted": 1,
+            "id": 833175,
+            "investor_id": 4341,
+            "last_updated": "2021-12-29 01:20:25",
+            "round_id": 1780636
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2021-12-29 01:20:25",
+            "deleted": 1,
+            "id": 886386,
+            "investor_id": 4341,
+            "last_updated": "2022-01-04 23:10:26",
+            "round_id": 1869529
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/exfinity-venture-partners",
+                "created": "2020-09-09 17:29:54",
+                "hash": "9b197a8c48aab0017b08849b2d5994b3",
+                "id": 4341,
+                "last_updated": "2022-02-10 13:25:27",
+                "name": "Exfinity Venture Partners"
+            },
+            "created": "2022-01-04 23:10:26",
+            "deleted": 1,
+            "id": 934265,
+            "investor_id": 4341,
+            "last_updated": "2022-02-09 05:57:17",
+            "round_id": 1985706
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-02-09 05:57:17",
+            "deleted": 1,
+            "id": 998595,
+            "investor_id": 19430,
+            "last_updated": "2022-02-28 22:44:34",
+            "round_id": 2089957
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-02-28 22:44:34",
+            "deleted": 1,
+            "id": 1043301,
+            "investor_id": 19430,
+            "last_updated": "2022-03-05 02:47:18",
+            "round_id": 2224175
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-03-05 02:47:18",
+            "deleted": 1,
+            "id": 1078845,
+            "investor_id": 19430,
+            "last_updated": "2022-04-02 22:32:00",
+            "round_id": 2312980
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-04-02 22:32:00",
+            "deleted": 1,
+            "id": 1146444,
+            "investor_id": 19430,
+            "last_updated": "2022-05-09 00:03:46",
+            "round_id": 2391348
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-05-09 00:03:46",
+            "deleted": 1,
+            "id": 1225837,
+            "investor_id": 19430,
+            "last_updated": "2022-06-04 08:45:39",
+            "round_id": 2530554
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-06-04 08:45:39",
+            "deleted": 1,
+            "id": 1291798,
+            "investor_id": 19430,
+            "last_updated": "2022-06-17 00:43:40",
+            "round_id": 2693397
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-06-17 00:43:40",
+            "deleted": 1,
+            "id": 1301220,
+            "investor_id": 19430,
+            "last_updated": "2022-07-14 20:55:09",
+            "round_id": 2826547
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-07-14 20:55:09",
+            "deleted": 1,
+            "id": 1369563,
+            "investor_id": 19430,
+            "last_updated": "2022-08-13 20:27:07",
+            "round_id": 2845892
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-08-13 20:27:07",
+            "deleted": 1,
+            "id": 1490109,
+            "investor_id": 19430,
+            "last_updated": "2022-09-17 04:29:14",
+            "round_id": 2986204
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-09-17 04:29:14",
+            "deleted": 1,
+            "id": 1543780,
+            "investor_id": 19430,
+            "last_updated": "2022-10-11 23:06:10",
+            "round_id": 3232723
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-10-11 23:06:10",
+            "deleted": 1,
+            "id": 1602038,
+            "investor_id": 19430,
+            "last_updated": "2022-11-24 15:13:33",
+            "round_id": 3342718
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-11-24 15:13:33",
+            "deleted": 1,
+            "id": 1693662,
+            "investor_id": 19430,
+            "last_updated": "2022-12-04 11:12:57",
+            "round_id": 3460409
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2022-12-04 11:12:57",
+            "deleted": 1,
+            "id": 1710786,
+            "investor_id": 19430,
+            "last_updated": "2023-01-18 13:49:09",
+            "round_id": 3647075
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-01-18 13:49:09",
+            "deleted": 1,
+            "id": 1838997,
+            "investor_id": 19430,
+            "last_updated": "2023-02-11 11:10:42",
+            "round_id": 3682281
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-02-11 11:10:42",
+            "deleted": 1,
+            "id": 1894084,
+            "investor_id": 19430,
+            "last_updated": "2023-03-13 16:42:10",
+            "round_id": 3937435
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-03-13 16:42:10",
+            "deleted": 1,
+            "id": 2000166,
+            "investor_id": 19430,
+            "last_updated": "2023-03-14 20:51:25",
+            "round_id": 4044524
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-03-14 20:51:25",
+            "deleted": 1,
+            "id": 2007245,
+            "investor_id": 19430,
+            "last_updated": "2023-04-07 09:38:27",
+            "round_id": 4261156
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-04-07 09:38:27",
+            "deleted": 1,
+            "id": 2028113,
+            "investor_id": 19430,
+            "last_updated": "2023-05-07 03:37:04",
+            "round_id": 4275493
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-05-07 03:37:04",
+            "deleted": 1,
+            "id": 2128790,
+            "investor_id": 19430,
+            "last_updated": "2023-06-11 12:42:35",
+            "round_id": 4317669
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-06-11 12:42:35",
+            "deleted": 1,
+            "id": 2211156,
+            "investor_id": 19430,
+            "last_updated": "2023-07-06 07:46:46",
+            "round_id": 4526813
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-07-06 07:46:46",
+            "deleted": 1,
+            "id": 2288423,
+            "investor_id": 19430,
+            "last_updated": "2023-08-04 02:19:43",
+            "round_id": 4700005
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-08-04 02:19:43",
+            "deleted": 1,
+            "id": 2373990,
+            "investor_id": 19430,
+            "last_updated": "2023-09-18 23:27:43",
+            "round_id": 5034458
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-09-18 23:27:43",
+            "deleted": 1,
+            "id": 2519672,
+            "investor_id": 19430,
+            "last_updated": "2023-10-02 21:07:50",
+            "round_id": 5227712
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-10-02 21:07:50",
+            "deleted": 1,
+            "id": 2540070,
+            "investor_id": 19430,
+            "last_updated": "2023-11-16 05:09:45",
+            "round_id": 5564798
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-11-16 05:09:45",
+            "deleted": 1,
+            "id": 2652075,
+            "investor_id": 19430,
+            "last_updated": "2023-12-06 11:33:36",
+            "round_id": 5611996
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2023-12-06 11:33:36",
+            "deleted": 1,
+            "id": 2732795,
+            "investor_id": 19430,
+            "last_updated": "2024-01-08 11:32:55",
+            "round_id": 5874145
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-01-08 11:32:55",
+            "deleted": 1,
+            "id": 2826373,
+            "investor_id": 19430,
+            "last_updated": "2024-02-06 07:47:56",
+            "round_id": 6037644
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-02-06 07:47:56",
+            "deleted": 1,
+            "id": 2911006,
+            "investor_id": 19430,
+            "last_updated": "2024-03-17 12:26:15",
+            "round_id": 6226382
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-03-17 12:26:15",
+            "deleted": 1,
+            "id": 3046778,
+            "investor_id": 19430,
+            "last_updated": "2024-04-09 16:44:41",
+            "round_id": 6396542
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-04-09 16:44:41",
+            "deleted": 1,
+            "id": 3117811,
+            "investor_id": 19430,
+            "last_updated": "2024-05-14 03:30:08",
+            "round_id": 6669617
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-05-14 03:30:08",
+            "deleted": 1,
+            "id": 3213021,
+            "investor_id": 19430,
+            "last_updated": "2024-06-11 03:54:02",
+            "round_id": 6811707
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-06-11 03:54:02",
+            "deleted": 1,
+            "id": 3319619,
+            "investor_id": 19430,
+            "last_updated": "2024-07-16 17:17:27",
+            "round_id": 7002535
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-07-16 17:17:27",
+            "deleted": 1,
+            "id": 3437931,
+            "investor_id": 19430,
+            "last_updated": "2024-08-07 15:16:02",
+            "round_id": 7215731
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-08-07 15:16:02",
+            "deleted": 1,
+            "id": 3504401,
+            "investor_id": 19430,
+            "last_updated": "2024-08-26 11:57:06",
+            "round_id": 7450912
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-08-26 11:57:06",
+            "deleted": 1,
+            "id": 3613380,
+            "investor_id": 19430,
+            "last_updated": "2024-09-08 13:07:46",
+            "round_id": 7581912
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-09-08 13:07:46",
+            "deleted": 1,
+            "id": 3718346,
+            "investor_id": 19430,
+            "last_updated": "2024-09-19 22:37:17",
+            "round_id": 7797511
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-09-19 22:37:17",
+            "deleted": 1,
+            "id": 3794520,
+            "investor_id": 19430,
+            "last_updated": "2024-10-02 03:32:02",
+            "round_id": 8005384
+        },
+        {
+            "company_id": 1666893,
+            "company_investors_list": {
+                "cb_url": "https://www.crunchbase.com/organization/massmutual-ventures",
+                "created": "2021-11-22 13:57:31",
+                "hash": "c0a61bf2407cd4dc461221ae78153cc0",
+                "id": 19430,
+                "last_updated": "2021-11-22 13:57:31",
+                "name": "MassMutual Ventures"
+            },
+            "created": "2024-10-02 03:32:02",
+            "deleted": 1,
+            "id": 3839262,
+            "investor_id": 19430,
+            "last_updated": "2024-11-02 00:29:27",
+            "round_id": 8156041
+        }
+    ],
+    "company_funding_rounds_collection": [
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2020-09-22 21:57:30",
+            "deleted": 1,
+            "id": 131663,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2020-10-15 17:54:14",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2020-10-15 17:54:14",
+            "deleted": 1,
+            "id": 201974,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2020-11-12 01:51:21",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 287050,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2020-12-17 06:26:10",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2020-12-17 06:26:10",
+            "deleted": 1,
+            "id": 409140,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-01-19 15:59:21",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-01-19 15:59:21",
+            "deleted": 1,
+            "id": 529977,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-02-13 15:14:58",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-02-13 15:14:58",
+            "deleted": 1,
+            "id": 596100,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-03-18 10:46:18",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-03-18 10:46:18",
+            "deleted": 1,
+            "id": 703173,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-03-20 05:23:27",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-03-20 05:23:27",
+            "deleted": 1,
+            "id": 714009,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-04-15 02:15:54",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-04-15 02:15:54",
+            "deleted": 1,
+            "id": 810880,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-05-18 03:17:54",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-05-18 03:17:54",
+            "deleted": 1,
+            "id": 933819,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-06-25 15:58:56",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-06-25 15:58:56",
+            "deleted": 1,
+            "id": 1059420,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-07-22 13:19:14",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-07-22 13:19:14",
+            "deleted": 1,
+            "id": 1178537,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-08-12 22:31:17",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-08-12 22:31:17",
+            "deleted": 1,
+            "id": 1258550,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-09-30 15:50:03",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-10-18 23:01:01",
+            "deleted": 1,
+            "id": 1629441,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-11-20 19:47:27",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-11-20 19:47:27",
+            "deleted": 1,
+            "id": 1780636,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-11-30 12:06:57",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-11-30 12:06:57",
+            "deleted": 1,
+            "id": 1869529,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2021-12-29 01:20:25",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2021-12-29 01:20:25",
+            "deleted": 1,
+            "id": 1985706,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2022-01-04 23:10:26",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-seed--15319dbf",
+            "created": "2022-01-04 23:10:26",
+            "deleted": 1,
+            "id": 2089957,
+            "last_round_date": "2019-02-26 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 490.0K",
+            "last_round_type": "Seed",
+            "last_updated": "2022-02-09 05:57:17",
+            "total_rounds_count": 2
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-02-09 05:57:17",
+            "deleted": 1,
+            "id": 2224175,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-02-28 22:44:34",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-02-28 22:44:34",
+            "deleted": 1,
+            "id": 2312980,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-03-05 02:47:18",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-03-05 02:47:18",
+            "deleted": 1,
+            "id": 2391348,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-04-02 22:32:00",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-04-02 22:32:00",
+            "deleted": 1,
+            "id": 2530554,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-05-09 00:03:46",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-05-09 00:03:46",
+            "deleted": 1,
+            "id": 2693397,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-06-04 08:45:39",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-06-04 08:45:39",
+            "deleted": 1,
+            "id": 2826547,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-06-17 00:43:40",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-06-17 00:43:40",
+            "deleted": 1,
+            "id": 2845892,
+            "last_round_date": "2021-10-08 00:00:00",
+            "last_round_investors_count": 3,
+            "last_round_money_raised": "US$\n                  7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-07-14 20:55:09",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-07-14 20:55:09",
+            "deleted": 1,
+            "id": 2986204,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-08-13 20:27:07",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-08-13 20:27:07",
+            "deleted": 1,
+            "id": 3232723,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-09-17 04:29:14",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-09-17 04:29:14",
+            "deleted": 1,
+            "id": 3342718,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-10-11 23:06:10",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-10-11 23:06:10",
+            "deleted": 1,
+            "id": 3460409,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-11-24 15:13:33",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-11-24 15:13:33",
+            "deleted": 1,
+            "id": 3647075,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2022-12-04 11:12:57",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2022-12-04 11:12:57",
+            "deleted": 1,
+            "id": 3682281,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-01-18 13:49:09",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-01-18 13:49:09",
+            "deleted": 1,
+            "id": 3937435,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-02-11 11:10:42",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-02-11 11:10:42",
+            "deleted": 1,
+            "id": 4044524,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-03-13 16:42:10",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-03-13 16:42:10",
+            "deleted": 1,
+            "id": 4261156,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-03-14 20:51:25",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-03-14 20:51:25",
+            "deleted": 1,
+            "id": 4275493,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-04-07 09:38:27",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-04-07 09:38:27",
+            "deleted": 1,
+            "id": 4317669,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-05-07 03:37:04",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-05-07 03:37:04",
+            "deleted": 1,
+            "id": 4526813,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-06-11 12:42:35",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-06-11 12:42:35",
+            "deleted": 1,
+            "id": 4700005,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-07-06 07:46:46",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-07-06 07:46:46",
+            "deleted": 1,
+            "id": 5034458,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-08-04 02:19:43",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-08-04 02:19:43",
+            "deleted": 1,
+            "id": 5227712,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-09-18 23:27:43",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-09-18 23:27:43",
+            "deleted": 1,
+            "id": 5564798,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-10-02 21:07:50",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-10-02 21:07:50",
+            "deleted": 1,
+            "id": 5611996,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-11-16 05:09:45",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-11-16 05:09:45",
+            "deleted": 1,
+            "id": 5874145,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2023-12-06 11:33:36",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2023-12-06 11:33:36",
+            "deleted": 1,
+            "id": 6037644,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-01-08 11:32:55",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-01-08 11:32:55",
+            "deleted": 1,
+            "id": 6226382,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-02-06 07:47:56",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-02-06 07:47:56",
+            "deleted": 1,
+            "id": 6396542,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-03-17 12:26:15",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-03-17 12:26:15",
+            "deleted": 1,
+            "id": 6669617,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-04-09 16:44:41",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-04-09 16:44:41",
+            "deleted": 1,
+            "id": 6811707,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-05-14 03:30:08",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-05-14 03:30:08",
+            "deleted": 1,
+            "id": 7002535,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-06-11 03:54:02",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-06-11 03:54:02",
+            "deleted": 1,
+            "id": 7215731,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-07-16 17:17:27",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-07-16 17:17:27",
+            "deleted": 1,
+            "id": 7450912,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-08-07 15:16:02",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-08-07 15:16:02",
+            "deleted": 1,
+            "id": 7581912,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-08-26 11:57:06",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-08-26 11:57:06",
+            "deleted": 1,
+            "id": 7797511,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-09-08 13:07:46",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-09-08 13:07:46",
+            "deleted": 1,
+            "id": 8005384,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-09-19 22:37:17",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-09-19 22:37:17",
+            "deleted": 1,
+            "id": 8156041,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-10-02 03:32:02",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-a--d16dd3d0",
+            "created": "2024-10-02 03:32:02",
+            "deleted": 1,
+            "id": 8244926,
+            "last_round_date": "2021-11-08 00:00:00",
+            "last_round_investors_count": 1,
+            "last_round_money_raised": "US$ 7.0M",
+            "last_round_type": "Series A",
+            "last_updated": "2024-11-02 00:29:27",
+            "total_rounds_count": 3
+        },
+        {
+            "cb_url": "https://www.crunchbase.com/funding_round/cloudsek-series-unknown--1a8669f1",
+            "created": "2024-11-02 00:29:27",
+            "deleted": 0,
+            "id": 8553697,
+            "last_round_date": "2023-02-01 00:00:00",
+            "last_round_investors_count": 0,
+            "last_round_money_raised": null,
+            "last_round_type": "Series unknown",
+            "last_updated": "2024-11-02 00:29:27",
+            "total_rounds_count": 5
+        }
+    ],
+    "company_locations_collection": [
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 938666,
+            "is_primary": 1,
+            "last_updated": "2020-02-24 01:07:05",
+            "location_address": "CloudSek Info Security Pvt. Ltd.; 648/L(3rd Floor) BKN Ambaram Estates,  Swamy Vivekananda Rd, Indiranagar, Bengaluru, Karnataka, India ; Bangalore, Karnataka 560038, IN"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 938668,
+            "is_primary": 0,
+            "last_updated": "2020-02-24 01:07:05",
+            "location_address": "151 Chin Swee Rd; #07-12 Manhattan House; Singapore, Singapore 16, SG"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 0,
+            "id": 13637696,
+            "is_primary": 1,
+            "last_updated": "2024-11-02 00:29:27",
+            "location_address": "151 Chin Swee Rd; #07-12 Manhattan House; Singapore, Singapore 16, SG"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 1,
+            "id": 13637697,
+            "is_primary": 0,
+            "last_updated": "2020-03-13 01:36:57",
+            "location_address": "CloudSek Info Security Pvt. Ltd.; 648/L(3rd Floor) BKN Ambaram Estates,  Swamy Vivekananda Rd, Indiranagar, Bengaluru, Karnataka, India ; Bangalore, Karnataka 560038, IN"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-03-13 01:36:57",
+            "deleted": 0,
+            "id": 13749812,
+            "is_primary": 0,
+            "last_updated": "2024-11-02 00:29:27",
+            "location_address": "CloudSek Info Security Pvt. Ltd.; 901, MSM Corner, 7th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar; Bangalore, Karnataka 560038, IN"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-12-06 11:33:36",
+            "deleted": 0,
+            "id": 140944586,
+            "is_primary": 0,
+            "last_updated": "2024-11-02 00:29:27",
+            "location_address": "12 Regent St; CloudSEK, 4th floor, Rex House, 4, 12 Regent Street, London; London, England SW1Y 4PE, GB"
+        }
+    ],
+    "company_shorthand_name": "cloudsek",
+    "company_shorthand_name_hash": "8a9c9135b4e5dc0dda6e98f676ad2210",
+    "company_similar_collection": [
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 3234355,
+            "last_updated": "2020-09-22 21:57:30",
+            "url": "https://www.linkedin.com/company/cloudsec-summits"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 3234360,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/attify"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 3234364,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://www.linkedin.com/company/citrix"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 3234367,
+            "last_updated": "2019-12-14 10:23:21",
+            "url": "https://www.linkedin.com/company/tenableinc"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 3234370,
+            "last_updated": "2019-12-14 10:23:21",
+            "url": "https://www.linkedin.com/company/the-autoaigroup"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-10-16 16:49:52",
+            "deleted": 1,
+            "id": 3234371,
+            "last_updated": "2019-11-17 04:41:36",
+            "url": "https://www.linkedin.com/company/cloudsec"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-11-17 04:41:36",
+            "deleted": 1,
+            "id": 47129766,
+            "last_updated": "2019-12-14 10:23:21",
+            "url": "https://www.linkedin.com/company/appsecco"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-12-14 10:23:21",
+            "deleted": 1,
+            "id": 57020556,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/swiggy-in"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-12-14 10:23:21",
+            "deleted": 1,
+            "id": 57020557,
+            "last_updated": "2020-01-14 13:08:28",
+            "url": "https://www.linkedin.com/company/parabluinc"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2019-12-14 10:23:21",
+            "deleted": 1,
+            "id": 57020558,
+            "last_updated": "2020-01-14 13:08:28",
+            "url": "https://www.linkedin.com/company/aujas-networks-pvt-ltd"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-01-14 13:08:28",
+            "deleted": 1,
+            "id": 67046853,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/isight-partners"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-01-14 13:08:28",
+            "deleted": 1,
+            "id": 67046854,
+            "last_updated": "2020-03-13 01:36:57",
+            "url": "https://www.linkedin.com/company/sequretek"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 1,
+            "id": 99650215,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/c0c0nconference"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 1,
+            "id": 99650216,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/netapp"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 1,
+            "id": 99650217,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/senseforth"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-02-24 01:07:05",
+            "deleted": 1,
+            "id": 99650218,
+            "last_updated": "2020-03-13 01:36:57",
+            "url": "https://www.linkedin.com/company/ernstandyoung"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-03-13 01:36:57",
+            "deleted": 1,
+            "id": 108641740,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/nullcon-information-security-conference"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-03-13 01:36:57",
+            "deleted": 1,
+            "id": 108641741,
+            "last_updated": "2020-04-14 14:26:28",
+            "url": "https://www.linkedin.com/company/ibm"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690867,
+            "last_updated": "2020-11-12 01:51:21",
+            "url": "https://www.linkedin.com/company/securelayer7"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690869,
+            "last_updated": "2020-11-12 01:51:21",
+            "url": "https://www.linkedin.com/company/halainfosec"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690871,
+            "last_updated": "2020-11-12 01:51:21",
+            "url": "https://www.linkedin.com/company/sisainfosec"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690873,
+            "last_updated": "2020-09-22 21:57:30",
+            "url": "https://www.linkedin.com/company/valuepoint-techsol-private-limited"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690874,
+            "last_updated": "2020-09-22 21:57:30",
+            "url": "https://www.linkedin.com/company/aptus-software-labs"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690875,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://www.linkedin.com/company/paladion-networks"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690876,
+            "last_updated": "2020-11-12 01:51:21",
+            "url": "https://www.linkedin.com/company/socexperts"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-14 14:26:28",
+            "deleted": 1,
+            "id": 131690877,
+            "last_updated": "2020-04-24 13:54:39",
+            "url": "https://www.linkedin.com/company/nii-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-04-24 13:54:39",
+            "deleted": 1,
+            "id": 136953846,
+            "last_updated": "2020-05-06 16:59:08",
+            "url": "https://www.linkedin.com/company/c0c0nconference"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-05-06 16:59:08",
+            "deleted": 1,
+            "id": 143927708,
+            "last_updated": "2020-07-15 09:25:37",
+            "url": "https://www.linkedin.com/company/nii-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-07-15 09:25:37",
+            "deleted": 1,
+            "id": 182654820,
+            "last_updated": "2020-08-18 11:23:11",
+            "url": "https://www.linkedin.com/company/lucideustech"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-08-18 11:23:11",
+            "deleted": 1,
+            "id": 209259075,
+            "last_updated": "2020-10-15 17:54:14",
+            "url": "https://www.linkedin.com/company/zomato"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-09-22 21:57:30",
+            "deleted": 1,
+            "id": 236943538,
+            "last_updated": "2020-10-15 17:54:14",
+            "url": "https://www.linkedin.com/company/postman-platform"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-09-22 21:57:30",
+            "deleted": 1,
+            "id": 236943539,
+            "last_updated": "2021-04-15 02:15:54",
+            "url": "https://www.linkedin.com/company/cloudflare"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-09-22 21:57:30",
+            "deleted": 1,
+            "id": 236943540,
+            "last_updated": "2021-01-19 15:59:21",
+            "url": "https://www.linkedin.com/company/google"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-10-15 17:54:14",
+            "deleted": 1,
+            "id": 250276822,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://www.linkedin.com/company/cloudera"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-10-15 17:54:14",
+            "deleted": 1,
+            "id": 250276823,
+            "last_updated": "2020-11-12 01:51:21",
+            "url": "https://www.linkedin.com/company/nii-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 268429915,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://in.linkedin.com/company/securelayer7"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 268429917,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://in.linkedin.com/company/sisainfosec"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 268429918,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://in.linkedin.com/company/socexperts"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 268429919,
+            "last_updated": "2021-01-19 15:59:21",
+            "url": "https://in.linkedin.com/company/razorpay"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-11-12 01:51:21",
+            "deleted": 1,
+            "id": 268429921,
+            "last_updated": "2020-12-17 06:26:10",
+            "url": "https://in.linkedin.com/company/tata-consultancy-services"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-12-17 06:26:10",
+            "deleted": 1,
+            "id": 330796483,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://in.linkedin.com/company/tac-security-solutions"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-01-19 15:59:21",
+            "deleted": 1,
+            "id": 357273742,
+            "last_updated": "2021-02-13 15:14:58",
+            "url": "https://in.linkedin.com/company/udaan"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-01-19 15:59:21",
+            "deleted": 1,
+            "id": 357273743,
+            "last_updated": "2021-04-15 02:15:54",
+            "url": "https://www.linkedin.com/company/lucideustech"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-02-13 15:14:58",
+            "deleted": 1,
+            "id": 371616066,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://www.linkedin.com/company/nii-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-04-15 02:15:54",
+            "deleted": 1,
+            "id": 395282186,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://www.linkedin.com/company/safesecurity-inc"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-04-15 02:15:54",
+            "deleted": 1,
+            "id": 395282187,
+            "last_updated": "2021-06-25 15:58:56",
+            "url": "https://in.linkedin.com/company/tata-consultancy-services"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 0,
+            "id": 526056707,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/company/securelayer7"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 0,
+            "id": 526056708,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://www.linkedin.com/company/citrix"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 0,
+            "id": 526056709,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/company/sisainfosec"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056710,
+            "last_updated": "2022-04-02 22:32:00",
+            "url": "https://www.linkedin.com/company/safesecurity-inc"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056711,
+            "last_updated": "2022-02-28 22:44:34",
+            "url": "https://www.linkedin.com/company/paladion-networks"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056712,
+            "last_updated": "2022-02-28 22:44:34",
+            "url": "https://www.linkedin.com/company/cloudera"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056713,
+            "last_updated": "2023-03-13 16:42:10",
+            "url": "https://in.linkedin.com/company/tac-security-solutions"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056714,
+            "last_updated": "2022-02-28 22:44:34",
+            "url": "https://www.linkedin.com/company/nii-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056715,
+            "last_updated": "2022-06-04 08:45:39",
+            "url": "https://in.linkedin.com/company/tata-consultancy-services"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2021-09-30 15:50:03",
+            "deleted": 1,
+            "id": 526056716,
+            "last_updated": "2022-02-28 22:44:34",
+            "url": "https://www.linkedin.com/company/fireeye"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-02-28 22:44:34",
+            "deleted": 0,
+            "id": 556662090,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/company/payatu"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-02-28 22:44:34",
+            "deleted": 1,
+            "id": 556662091,
+            "last_updated": "2022-10-11 23:06:10",
+            "url": "https://www.linkedin.com/company/redhunt-labs"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-02-28 22:44:34",
+            "deleted": 1,
+            "id": 556662092,
+            "last_updated": "2023-11-16 05:09:45",
+            "url": "https://www.linkedin.com/company/isight-partners"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-02-28 22:44:34",
+            "deleted": 1,
+            "id": 556662093,
+            "last_updated": "2022-06-04 08:45:39",
+            "url": "https://www.linkedin.com/company/kloudle"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-04-02 22:32:00",
+            "deleted": 1,
+            "id": 609649697,
+            "last_updated": "2024-01-08 11:32:55",
+            "url": "https://www.linkedin.com/company/safecrq"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-06-04 08:45:39",
+            "deleted": 1,
+            "id": 623152128,
+            "last_updated": "2022-09-17 04:29:14",
+            "url": "https://www.linkedin.com/company/paladion-networks"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-06-04 08:45:39",
+            "deleted": 0,
+            "id": 623152129,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://www.linkedin.com/company/aujas-cybersecurity"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-09-17 04:29:14",
+            "deleted": 1,
+            "id": 710336231,
+            "last_updated": "2023-05-07 03:37:04",
+            "url": "https://www.linkedin.com/company/google"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-10-11 23:06:10",
+            "deleted": 1,
+            "id": 723555849,
+            "last_updated": "2023-04-07 09:38:27",
+            "url": "https://uk.linkedin.com/company/redhunt-labs"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-03-13 16:42:10",
+            "deleted": 1,
+            "id": 793549544,
+            "last_updated": "2024-09-08 13:07:46",
+            "url": "https://in.linkedin.com/company/tacsecurity"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-04-07 09:38:27",
+            "deleted": 1,
+            "id": 798388611,
+            "last_updated": "2024-05-14 03:30:08",
+            "url": "https://www.linkedin.com/company/nii-consulting"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-05-07 03:37:04",
+            "deleted": 0,
+            "id": 819376658,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://www.linkedin.com/company/deloitte"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2023-11-16 05:09:45",
+            "deleted": 0,
+            "id": 907754822,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://www.linkedin.com/company/google"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-01-08 11:32:55",
+            "deleted": 1,
+            "id": 933198036,
+            "last_updated": "2024-02-06 07:47:56",
+            "url": "https://www.linkedin.com/company/ibm"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-02-06 07:47:56",
+            "deleted": 1,
+            "id": 946676083,
+            "last_updated": "2024-07-16 17:17:27",
+            "url": "https://au.linkedin.com/company/atlassian"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-05-14 03:30:08",
+            "deleted": 1,
+            "id": 998786433,
+            "last_updated": "2024-06-11 03:54:02",
+            "url": "https://uk.linkedin.com/company/ernstandyoung"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-06-11 03:54:02",
+            "deleted": 0,
+            "id": 1016426513,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://www.linkedin.com/company/cyble-global"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-07-16 17:17:27",
+            "deleted": 0,
+            "id": 1033951023,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://in.linkedin.com/company/razorpay"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2024-09-08 13:07:46",
+            "deleted": 0,
+            "id": 1063352438,
+            "last_updated": "2024-11-02 00:29:27",
+            "url": "https://au.linkedin.com/company/atlassian"
+        }
+    ],
+    "company_specialties_collection": [
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 2452919,
+            "last_updated": "2020-08-18 11:23:11",
+            "specialty": "information security"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2016-06-21 18:53:39",
+            "deleted": 1,
+            "id": 2452920,
+            "last_updated": "2020-08-18 11:23:11",
+            "specialty": "machine learning"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2020-08-18 11:23:11",
+            "deleted": 1,
+            "id": 56766404,
+            "last_updated": "2022-07-14 20:55:09",
+            "specialty": "information security and machine learning"
+        },
+        {
+            "company_id": 1666893,
+            "created": "2022-08-13 20:27:07",
+            "deleted": 0,
+            "id": 112160023,
+            "last_updated": "2024-11-02 00:29:27",
+            "specialty": "information security and machine learning"
+        }
+    ],
+    "created": "2016-06-21 18:53:39",
+    "deleted": 0,
+    "description": "CloudSEK is an Artificial Intelligence powered Digital Risk Management enterprise.\n\nHQ: Singapore",
+    "employees_count": 208,
+    "followers": 179905,
+    "founded": 2015,
+    "hash": "891a2096113281586965c6669448d0f8",
+    "headquarters_city": null,
+    "headquarters_country": null,
+    "headquarters_country_parsed": "Singapore",
+    "headquarters_country_restored": "India",
+    "headquarters_new_address": "Singapore, Singapore",
+    "headquarters_state": null,
+    "headquarters_street1": null,
+    "headquarters_street2": null,
+    "headquarters_zip": null,
+    "id": 1666893,
+    "industry": "Computer and Network Security",
+    "last_response_code": 200,
+    "last_updated": "2024-11-02 00:29:27",
+    "last_updated_ux": 1730507367,
+    "logo_url": "https://media.licdn.com/dms/image/v2/C510BAQEAbtKwW4ASsw/company-logo_200_200/company-logo_200_200/0/1630620809878/cloudsek_logo?e=2147483647&v=beta&t=J8ihOFRsRA0vb6XSIxxtmpvgZgvUSai0YqTxk6Q0j2c",
+    "name": "CloudSEK",
+    "size": "51-200 employees",
+    "source_id": 7596816,
+    "type": "Privately Held",
+    "url": "https://www.linkedin.com/company/cloudsek",
+    "website": "https://www.cloudsek.com"
+}
