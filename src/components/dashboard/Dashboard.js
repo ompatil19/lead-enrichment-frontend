@@ -38,7 +38,7 @@ function Dashboard() {
             console.log("Data successfully saved to Firestore");
     
         } catch (err) {
-            setError(err.response || 'An error occurred');
+            setError(err);
         } finally {
             setLoading(false);
         }
