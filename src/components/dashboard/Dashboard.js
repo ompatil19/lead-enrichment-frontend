@@ -15,34 +15,34 @@ function Dashboard() {
         setLoading(true);
         setError(null);
         setEnrichedData(null);
-
+    
         try {
             // Step 1: Send data to the API and get enriched data
-            const response = await axios.post('http://127.0.0.1:5000/api/enrich', {
+            const response = await axios.post(process.env.REACT_APP_BACKEND_URL, {
                 company_name: companyName,
                 website: website
             });
-
-            // Step 2: Set the enriched data in the state
-            setEnrichedData(response.data);
-
-            // Step 3: Save the enriched data to Firestore
+    
+            const fetchedData = response.data;  // Capture enriched data in a local variable
+            setEnrichedData(fetchedData);  // Set enriched data in state for display
+    
+            // Step 2: Save the enriched data to Firestore
             await addDoc(collection(db, "companies"), {
-                Name:enrichedData.name,
-                Description:enrichedData.description,
-                Industry:enrichedData.industry,
-                Employees_Count:enrichedData.employees_count,
-                Type:enrichedData.type
+                Name: fetchedData.name,  // Use fetchedData directly
+                Description: fetchedData.description,
+                Industry: fetchedData.industry,
+                Employees_Count: fetchedData.employees_count,
+                Type: fetchedData.type
             });
-
+    
             console.log("Data successfully saved to Firestore");
-
+    
         } catch (err) {
-            setError(err.response|| 'An error occurred');
+            setError(err.response || 'An error occurred');
         } finally {
             setLoading(false);
         }
-    };
+    };    
     return (
         <div className="flex p-6 justify-around w-screen">
             <div>
